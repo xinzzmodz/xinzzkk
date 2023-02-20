@@ -14,7 +14,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['558582123790'] //ur owner number
+global.vcardowner = ['558582385190'] //ur owner number
 global.ownername = "Risky Ofc" //ur owner name
 global.developer = "Risky Ofc" //nama lu
 global.ytname = "YT: Risky Ofc" //ur yt chanel name
@@ -23,15 +23,15 @@ global.sgc = "https://bit.ly/malia-md"
 global.location = "Brasil" //ur location
 
 //bot bomdy 
-global.owner = ['558582123790'] //ur number
-global.ownernomer = "558582123790" //ur number
-global.ownertag = '558582123790' //ur tag number
-global.premium = ['558582123790','554791368075','554792498923'] //ur premium number
+global.owner = ['558582385190'] //ur number
+global.ownernomer = "558582385190" //ur number
+global.ownertag = '558582385190' //ur tag number
+global.premium = ['558582385190','554791368075','554792498923'] //ur premium number
 global.botname = '𝘔𝘢𝘭𝘪𝘢-𝘔𝘥' //ur bot name
 global.ownername = "𝘋𝘦𝘷 𝘙𝘪𝘴𝘬𝘺"
 global.linkz = " " //your theme url which will be displayed on whatsapp
-global.dana = "558582123790"
-global.pulsa = "558582123790"
+global.dana = "558582385190"
+global.pulsa = "558582385190"
 global.websitex = " " //ur website to be displayed
 global.websitex1 = " "
 global.botscript = ' ' //script link
